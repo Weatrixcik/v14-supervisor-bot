@@ -27,7 +27,7 @@
 
 ![image](https://user-images.githubusercontent.com/74924310/226172962-1929adfb-a048-475a-bf8d-3ebcef95f027.png)
 ![image](https://user-images.githubusercontent.com/74924310/226172993-21cbc161-49fb-4df5-aa39-c68d5961f919.png)
-![image](https://user-images.githubusercontent.com/74924310/226173050-c9ccb6ed-aca8-4687-985f-1eaaba858ab7.png)
+![image](https://github.com/Weatrixcik/v14-supervisor-bot/assets/121248383/f37bcd53-4330-408b-92c6-db525c98b017)
 ![image](https://user-images.githubusercontent.com/74924310/226173065-4018e6ca-b86b-44de-8a01-212b3fb25f3e.png)
 ![image](https://user-images.githubusercontent.com/74924310/226173248-ca8fb5bd-aad0-49bd-8072-ed174abaf9c3.png)
 ![image](https://user-images.githubusercontent.com/74924310/226173289-c767eef3-26d7-4e8c-8510-a0b93bb602e2.png)
